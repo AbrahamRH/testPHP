@@ -1,0 +1,102 @@
+
+a
+{
+	position: relative;
+	display: inline-block;
+	font-size: 20px;
+	text-decoration: none;
+	color: #4D4D4D;
+	padding: 5px 10px;
+	margin-right: 10px;
+	cursor: pointer;
+}
+
+a:hover
+{
+	color: #FFF;
+	background-color: #73c728;
+}
+
+
+body
+{
+    font-family: 'Lato', sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	color: #4D4D4D;
+    margin: 0;
+    background-color: #f4f7f8;
+}
+
+#num_cuenta, #nombre, #apellido, #comentario
+{
+    margin-left: 50px;
+	position: relative;
+	display: block;
+	font-size:px;
+	color: #4D4D4D;
+	font-weight: 300px;
+    border: solid;
+	padding: 5px 10px 6px;
+	margin-top: 25px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	background-color: #FFF;
+	background-position: right;
+	outline: none;
+}
+
+table
+{
+    margin-left: 20px;
+}
+
+table, th, td
+{
+    border: 1px solid black;
+    text-align: center;
+  }
+
+th, td
+{
+    font-size: 18px;
+    font-weight: 400;
+    padding: 10px;
+    text-align: center;
+    width: 33.3333%;
+}
+
+tr
+{
+    background: #f4f7fa;
+    border-bottom: 1px solid #FFF;
+    margin-bottom: 5px;
+}
+
+h1, h2, b
+{
+    margin-left: 20px;
+}
+
+nav 
+{
+    margin-left: 40px;
+}
+
+input[type=submit]
+{
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    margin: 14px 0px 8px 50px;
+    display: inline-block;
+    border: none;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 3px #ddd;
+    cursor: pointer;
+}
+
+
+  
